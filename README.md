@@ -1,6 +1,9 @@
 # kubrick-gen
 Dusting off Stanley Kubrick: Generating New Films using LLM Pipeline
 
+IPHS 300 - Final Project
+
+Kenyon College 2023
 
 ## Poster
 
